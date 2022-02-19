@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Object_kant","path":"objects/Object_kant/Object_kant.yy",},"order":0,},
+    {"id":{"name":"Sprite_kant","path":"sprites/Sprite_kant/Sprite_kant.yy",},"order":2,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
