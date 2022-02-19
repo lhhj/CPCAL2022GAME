@@ -1,7 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"Obj_redBeard_Down","path":"sprites/Obj_redBeard_Down/Obj_redBeard_Down.yy",},"order":4,},
     {"id":{"name":"Room2_Child_0","path":"rooms/Room2_Child_0/Room2_Child_0.yy",},"order":2,},
+    {"id":{"name":"Obj_RedBeard","path":"objects/Obj_RedBeard/Obj_RedBeard.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Obj_redBeard_Up","path":"sprites/Obj_redBeard_Up/Obj_redBeard_Up.yy",},"order":3,},
+    {"id":{"name":"Obj_redBeard_Right","path":"sprites/Obj_redBeard_Right/Obj_redBeard_Right.yy",},"order":2,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":15,},
+    {"id":{"name":"Obj_redBeard_Left","path":"sprites/Obj_redBeard_Left/Obj_redBeard_Left.yy",},"order":1,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
