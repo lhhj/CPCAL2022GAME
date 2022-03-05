@@ -26,6 +26,7 @@
 2.  Fart (sejl up/ sejl ned = fart op, fart ned, måske  trin på sejl, nede, medium, hurtig) 
 3. Lettere forsinket effekt 
 
+
 # Visuelt
 1. Man skal kunne se sit health-level og sit skib 
 
@@ -34,6 +35,7 @@
 3. Til senere udvikling: Map er skjult delvist, man ser kun en vist radius, tidligere sejlet vand forsvinder 
 
 4. Mere health hvis man drikker en flaske ROM?  
+
 
 # Gameplay i spil
 1. Forhindringer i vandet, sejle udenom (undgå at ramme), eks. øer, hajer, tønder med pirater. 
@@ -55,3 +57,18 @@
 
 3. Man mister liv ved at blive ramt, gå på grund, ramme en haj, ramme en pirattønde, etc. 
 
+
+# Lyde
+- Kanonkugle rammer skib
+- Hejser flages -> mere fart på
+- Skib der sejler, knirker...
+- Sørøver der synger
+- Temasang
+- Bølgelyde?
+
+# Sprites
+- Map, room
+- Sørøverskibe (man kan evt, vælge mellem flere skibe under startup)
+- Haj
+- Tønde med pirat der sejler rundt
+- Øer
