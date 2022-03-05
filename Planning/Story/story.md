@@ -65,6 +65,7 @@
 - Sørøver der synger
 - Temasang
 - Bølgelyde?
+- Tønde med pirater
 
 # Sprites
 - Map, room
