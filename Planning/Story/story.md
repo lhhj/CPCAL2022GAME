@@ -72,4 +72,4 @@
 - Sørøverskibe (man kan evt, vælge mellem flere skibe under startup)
 - Haj
 - Tønde med pirat der sejler rundt
-- Øer
+- Øer med palmer
