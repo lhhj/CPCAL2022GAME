@@ -2,8 +2,11 @@
   "resources": [
     {"id":{"name":"Room2_Child_0","path":"rooms/Room2_Child_0/Room2_Child_0.yy",},"order":2,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Sea_background","path":"sprites/Sea_background/Sea_background.yy",},"order":2,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},"order":3,},
+    {"id":{"name":"Edge","path":"sprites/Edge/Edge.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -18,8 +21,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"main_room","path":"rooms/main_room/main_room.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2_Child_0","path":"rooms/Room2_Child_0/Room2_Child_0.yy",},},
   ],
   "Folders": [
@@ -46,9 +50,9 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.1.1.610",
+    "IDEVersion": "2022.2.0.614",
   },
-  "resourceVersion": "1.4",
+  "resourceVersion": "1.5",
   "name": "CPVAL0_1",
   "tags": [],
   "resourceType": "GMProject",
