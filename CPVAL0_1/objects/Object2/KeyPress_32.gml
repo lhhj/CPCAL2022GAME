@@ -4,6 +4,6 @@
 //bullet.direction = point_direction(x, y, mouse_x, mouse_y);
 
 var bullet = instance_create_layer(x, y, "Instances", obj_canonball);
-bullet.direction = point_direction(x, y, direction.x, direction.y);
+bullet.direction = 180+Object2.direction;
 
 //variable_global_set("obj_canonball.direction", image_angle);

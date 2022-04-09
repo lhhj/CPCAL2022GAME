@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-rspeed = 0.1; //the speed of rotation, how fast it rotates
+rspeed = 0.3; //the speed of rotation, how fast it rotates
 Point_dir = 0; //the variable that will store what direction to rotate to
 Is_Rotating = 0; //is it rotating, used in the STEP event to rotate the object
 
@@ -14,4 +14,5 @@ Is_Rotating = 1; //set to true
 if (Is_Rotating == 1) //if its set to rotate the object
 {
      image_angle += sin(degtorad(Point_dir - image_angle))*rspeed;
+	 direction = 180+image_angle;
 }
