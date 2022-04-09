@@ -37,7 +37,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Objects.yy",
+    "path": "folders/Paths/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Object2",
